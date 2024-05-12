@@ -16,10 +16,6 @@ const Footer = () => {
             <Link to="/">
               <img src={logo} alt="" />
             </Link>
-            <p className="my-8 text-Black/75">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua
-            </p>
             <div className="flex items-center gap-6">
               <FaFacebookF className="w-5 h-5 cursor-pointer hover:bg-violet-700" />
               <FaTwitter className="w-5 h-5 cursor-pointer hover:bg-violet-700" />
