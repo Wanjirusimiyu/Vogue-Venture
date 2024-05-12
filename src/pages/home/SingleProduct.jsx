@@ -21,7 +21,7 @@ function SingleProduct() {
     }, [id]);
     
 
-      const {image, title, description, category, price, rating} = product;
+      const {image, title, description, price} = product;
 
   return (
     <div className='mt-28 max-w-screen-2xl container mx-auto xl:px-28 px-4'>
