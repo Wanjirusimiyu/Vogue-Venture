@@ -1,7 +1,6 @@
 import React from 'react'
 import Banner from './Banner';
 import Products from './Products';
-import BestSellers from './BestSellers';
 import Newsletters from './NewsLetters';
 
 function Home() {
@@ -9,7 +8,6 @@ function Home() {
     <div>
      <Banner />
      <Products />
-     <BestSellers />
      <Newsletters />
     </div>
   )
