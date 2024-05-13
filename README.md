@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+![Screenshot 2024-05-13 at 07 38 51](https://github.com/Wanjirusimiyu/Vogue-Venture/assets/162365947/574c59a4-2c03-423f-bb7d-581254b66792)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## VOGUE VENTURE
+## Introduction
+Vogue Venture is shopping platform  designed to provide users with a seamless shopping experience, offering a variety of products from top brands and designers. Whether you're searching for casual wear, formal attire, or accessories to complete your look, Vogue Venture has you covered!.
 
-## Available Scripts
+## Developer's Name
+Joy Wanjiru Simiyu
 
-In the project directory, you can run:
+## Vercel link
+https://vogue-venture.vercel.app/
 
-### `npm start`
+## Features
+*  Landing page: An interactive landing page that enables users to familiarise themselves with the app
+*  Product Display: The App displays a range of products according to the categories. 
+*  Product Details: Users click on the products to view their details such as the  name, description, and prices.
+*  BestSellers: Users get a sneak peek of the latest products in the market.
+ 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
+* React Js
+* React Swiper
+* React Router Dom
+* Fake Store API
+ 
+## Installation and Setup
+1. Clone the Repository to your local machine;
+  `git clone https://github.com/your-username/vogue-venture.git` 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. Navigate to the project directory:
+`cd vogue-venture`
 
-### `npm test`
+3. Open the `index.html` file in your browser to view the app.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Usage 
+1. Open Vogue Venture in your browser.
+2. Browse through the displayed products and click on  an item to view the details.
+3. Click on the categories dropdown to view the products.
+  
 
-### `npm run build`
+## Contacts
+In case of any Questions or Suggestions regarding this Project, feel free to reach out to me:
+* Email: wanjirusimiyu@gmail.com
+* Github: https://github.com
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## License
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This project is licensed under the [MIT License](LICENSE).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
