@@ -9,7 +9,7 @@ function Cards({ filteredItems }) {
         return (
           <div key={item.id}>
             <Link to={`/shop/${item.id}`}>
-              <img src={item.image} alt="" width={50}   className='mx-50 h-40 w-40 hover:scale-105 transition-all
+              <img src={item.image} alt="" width={50} height={50}   className='mx-50 h-40 w-40 hover:scale-105 transition-all
               duration-300'/>
             </Link>
             <div className='mt-4 px-4'>
